@@ -1,5 +1,5 @@
 # elissa-logic-test
-Logic Test From in Elissa Software
+Logic Test
 
 Piggy Bank
 ----------
