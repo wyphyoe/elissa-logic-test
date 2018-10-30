@@ -10,12 +10,8 @@ public class Bank {
 
     public void deposit(Currency currency, double amount) {
 
-        if (this.checkSecurity()) {
-            //Do deposit
-            moneyList.add(new Money(amount, currency));
-        } else {
-            System.out.println("Wrong password");
-        }
+        //Do deposit
+        moneyList.add(new Money(amount, currency));
     }
 
     public void withdraw(Currency currency, double amount) {
