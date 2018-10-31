@@ -55,7 +55,7 @@ public class Bank {
         if (this.checkSecurity()) {
 
             double amount = 0;
-
+            
             for (Money money : moneyList) {
                 if (money.getCurrency() == currency) {
                     amount += money.getAmount();

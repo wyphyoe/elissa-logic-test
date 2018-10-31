@@ -17,7 +17,7 @@ public class Main {
         bank.deposit(Currency.THB, 20000);
 
         bank.withdraw(Currency.THB, 20000);
-        bank.withdraw(Currency.MMK, 10000);
+        bank.withdraw(Currency.MMK, 20000);
 
         System.out.println("Amount : " + bank.getAmount(Currency.MMK) + " MMK");
         System.out.println("Amount : " + bank.getAmount(Currency.SGD) + " SGD");
