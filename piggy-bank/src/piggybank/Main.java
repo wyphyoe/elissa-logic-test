@@ -12,8 +12,10 @@ public class Main {
         bank.deposit(Currency.MMK, 10000);
         bank.deposit(Currency.MMK, 10000);
         bank.deposit(Currency.MMK, 10000);
+
         bank.deposit(Currency.SGD, 20000);
         bank.deposit(Currency.SGD, 10000);
+
         bank.deposit(Currency.THB, 20000);
 
         bank.withdraw(Currency.THB, 20000);
