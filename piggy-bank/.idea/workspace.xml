@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="965b5e7e-1e47-40bd-8185-bb35e6285aad" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/piggybank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/piggybank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../music-player/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../music-player/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../music-player/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../music-player/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +16,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,6 +50,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="piggy-bank" type="58d84e3e:PackageViewProjectNode" />
+              <item name="piggy-bank" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,19 +80,6 @@
               <item name="piggy-bank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="piggybank" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="Course" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="piggy-bank" type="58d84e3e:PackageViewProjectNode" />
-              <item name="piggy-bank" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -145,16 +144,17 @@
       <updated>1540830916630</updated>
       <workItem from="1558854628559" duration="1477000" />
       <workItem from="1558856885465" duration="422000" />
+      <workItem from="1559370959524" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1899000" />
+    <option name="totallyTimeSpent" value="1996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26368877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26801154" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
